@@ -1,0 +1,15 @@
+hackerrank challenge for loops
+n = int(input())
+i=0
+while i<n:
+        print(i*i)
+        i+=1
+ 
+ output:
+ 5
+ 
+ 0
+ 1
+ 4
+ 9
+ 16
